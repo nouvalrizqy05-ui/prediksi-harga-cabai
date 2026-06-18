@@ -10,7 +10,7 @@ If you use this dataset or code, please cite:
 > Ar-Rizqy, M. N., Saputra, R. G., Ramadhani, S. A., & Al Mubarak, M. R. (2026).
 > *Comparison of Simple Linear Regression and Multiple Polynomial Regression with
 > Exogenous Variables for Chili Price Prediction in Central Java.*
-> Scientific Journal of Informatics. https://doi.org/10.5281/zenodo.XXXXXXX
+> Scientific Journal of Informatics. https://doi.org/10.5281/zenodo.20725876
 
 ---
 
